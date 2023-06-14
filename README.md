@@ -1,7 +1,7 @@
 # ASISTENCIA_ELECTRONICA-7MO
 Sistema electronico de asistencia mediante tarjeta RFID
 
-Librerias usada:	
+Librerias usadas:	
 
 *LiquidCrystal_I2C	
 
@@ -9,3 +9,10 @@ Librerias usada:
 
 *Rtc by Makuna (DS1302)	
 
+*SD.h
+
+*ThreeWire.h
+
+*MFRC522.h
+
+*SPI.h
